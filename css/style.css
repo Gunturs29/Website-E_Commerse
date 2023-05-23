@@ -1,0 +1,17 @@
+.slider{
+    height: 600px;
+}
+.text-content{
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+}
+.content {
+    height: 250px;
+}
+.owl-carousel{
+    padding: 5px 5px 5px 5px !important;
+}
+.contact-us {
+    background-color: black !important;
+}
